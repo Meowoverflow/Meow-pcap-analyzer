@@ -9,6 +9,7 @@ Host IP, Operating System, Open Ports, Identified Protocols
       python/python3 Meow-pcap-analyzer file.pcap
 # References
       https://www.sans.org/reading-room/.../os-application-fingerprinting-techniques-32923
+      Data and Computer Communications (tenth edition )
       blcakhat python book 
       Effective Python Penetration Testing book
       https://ieeexplore.ieee.org/document/7856145?figureId=fig3#fig3
