@@ -10,7 +10,7 @@ Host IP, Operating System, Open Ports, Identified Protocols
 # References
       https://www.sans.org/reading-room/.../os-application-fingerprinting-techniques-32923
       Data and Computer Communications (tenth edition )
-      blcakhat python book 
+      blackhat python book 
       Effective Python Penetration Testing book
       https://ieeexplore.ieee.org/document/7856145?figureId=fig3#fig3
       http://lcamtuf.coredump.cx/p0f3/#
