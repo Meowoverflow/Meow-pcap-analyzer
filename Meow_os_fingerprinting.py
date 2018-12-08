@@ -53,11 +53,13 @@ def meow_os_detector(pcap_path):
                     else:
                         ip_os[mhost] = "not detected search by ttl:" + str(ittl) + " and window_size :" + str(window_size)
 
-
-    print(ip_os)
+    for k in ip_os:
+        print(str(k) + " : " + str(ip_os.get(k) ))
+    #print(ip_os)
     return ip_os
 
 
+args = sys.argv
 
-
-meow_os_detector("trace.pcap")
+pcap_path = args[1]
+meow_os_detector(pcap_path)
