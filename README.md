@@ -1,6 +1,8 @@
 # Meow-pcap-analyzer
 #passive recon script read a pcap file and generates the following for each discovered host:
 Host IP, Operating System, Open Ports, Identified Protocols
+![image](https://github.com/Meowoverflow/Meow-pcap-analyzer/blob/master/meow.png)
+
 # operating systems Linux :  
 # requirements :
       -p0f ----- sudo apt install p0f or from http://lcamtuf.coredump.cx/p0f3/#
